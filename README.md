@@ -1,0 +1,2 @@
+# RubyKafkaSample
+Ruby Kafka 
